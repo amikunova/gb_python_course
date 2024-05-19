@@ -12,4 +12,4 @@ if i - j == 0:
 else:
     total_wagons = (i + j - 1)
 
-print(total_wagons)
+    print(total_wagons)
